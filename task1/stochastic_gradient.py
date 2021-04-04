@@ -1,5 +1,4 @@
-# WSI zadanie 1
-# Ewelina Fiuk, 304037
+# WSI task 1
 
 import numpy as np
 import matplotlib.pyplot as plt
